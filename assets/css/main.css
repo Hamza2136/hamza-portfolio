@@ -1,14 +1,14 @@
 
 /* Fonts */
 :root {
-  /* Body text: quirky but readable */
-  --default-font: "Quicksand", "Comic Neue", sans-serif;
+  /* Body text: clean and highly readable */
+  --default-font: "Inter", "Lato", "Segoe UI", sans-serif;
 
-  /* Headings: bold and artistic */
-  --heading-font: "Lobster", "Pacifico", cursive;
+  /* Headings: strong but elegant */
+  --heading-font: "Merriweather", "Playfair Display", serif;
 
-  /* Navigation: striking & modern */
-  --nav-font: "Bebas Neue", "Anton", sans-serif;
+  /* Navigation or section titles: modern and minimal */
+  --nav-font: "Poppins", "Montserrat", sans-serif;
 }
 
 
